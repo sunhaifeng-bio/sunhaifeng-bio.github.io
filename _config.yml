@@ -13,7 +13,7 @@ title                    : "Haifeng Sun / Scientific Research"
 title_separator          : "-"
 name                     : &name "Haifeng Sun"
 description              : &description "personal description"
-url                      : https://academicpages.github.io
+url                      : https://sunhaifeng-bio.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
